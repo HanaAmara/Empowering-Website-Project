@@ -1,3 +1,2 @@
-const express;
-
-const hana;
+const test = "we the best server team";
+const michal = "The GOAT";
